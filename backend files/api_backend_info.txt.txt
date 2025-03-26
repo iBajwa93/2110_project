@@ -1,0 +1,6 @@
+Invoke URL: 
+
+https://0z4cptlihg.execute-api.us-east-1.amazonaws.com/prod/detect-breed
+
+
+Features POST and OPTIONS methods and CORS is also enabled.
